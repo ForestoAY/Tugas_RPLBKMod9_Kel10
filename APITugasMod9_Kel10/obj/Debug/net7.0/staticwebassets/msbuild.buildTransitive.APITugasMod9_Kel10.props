@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\APITugasMod9_Kel10.props" />
+</Project>

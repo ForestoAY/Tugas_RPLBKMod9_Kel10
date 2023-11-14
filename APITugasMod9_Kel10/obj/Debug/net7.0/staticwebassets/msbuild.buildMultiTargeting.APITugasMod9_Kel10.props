@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APITugasMod9_Kel10.props" />
+</Project>
